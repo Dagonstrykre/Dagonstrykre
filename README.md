@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About:
 🔭 I’m currently working on QMK, Network automation scripts and Bash Nonsense<br>👯 I’m looking to collaborate on Interesting projects<br>🤝 I’m looking for help with Windows and microcontroller programming<br>🌱 I’m currently learning as much as I can<br>💬 Ask me about fictional creatures or the Culture Series<br>⚡ Fun fact Gibson Was Right
 
 
